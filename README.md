@@ -23,3 +23,5 @@ ScreenShots
 
 https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/LoginPage.png
 <img width="472" height="1006" alt="image" src="https://github.com/user-attachments/assets/9dc0fc87-0788-4a0c-8158-0d4ec7b45444" />
+
+<img width="475" height="1004" alt="image" src="https://github.com/user-attachments/assets/e85dca36-526a-4855-a67a-35a86c8ace65" />
