@@ -1,21 +1,23 @@
-<<<<<<< HEAD
-# finance_tracker
+**Personal Finance Tracker**
 
-A new Flutter project.
+Personal Finance Tracker is a self-hosted mobile app designed to help users gain a deeper understanding of their personal finances. Built with Flutter and powered by Firebase, it offers intuitive budgeting tools, real-time insights, and AI-driven analytics — all while keeping your data private and under your control.
 
-## Getting Started
+ Features
+-  Budget Management
+Set monthly budgets, track spending by category, and visualize progress with dynamic charts.
+-  Secure Authentication
+Firebase-backed login system with secure user sessions and Firestore rules.
+-  Monthly Summaries
+Automatically generated reports that highlight income, expenses, and savings trends.
+-  Clean UI/UX
+Thoughtfully designed interface for clarity, ease of use, and accessibility.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ Installation/Setting up
+ 
+- Clone the repo
+- Set up Firebase project and configure google-services.json.
+- Run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Personal-Finance-Tracker
-A self-hosted application designed to give you deeper insights into your personal finances.
->>>>>>> 75eeb97487bb606f481930ac729a75951d2af555
