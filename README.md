@@ -8,6 +8,8 @@ https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/Dashboar
 
 https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/SetBudget.png
 
+https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/MonthlySummary.png
+
  Features
 -  Budget Management
 Set monthly budgets, track spending by category, and visualize progress with dynamic charts.
