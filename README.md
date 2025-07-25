@@ -4,6 +4,8 @@ Personal Finance Tracker is a self-hosted mobile app designed to help users gain
 
 https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/LoginPage.png
 
+
+
  Features
 -  Budget Management
 Set monthly budgets, track spending by category, and visualize progress with dynamic charts.
@@ -26,7 +28,12 @@ ScreenShots
 
 <img width="472" height="1006" alt="image" src="https://github.com/user-attachments/assets/9dc0fc87-0788-4a0c-8158-0d4ec7b45444" />
 
+
 <img width="484" height="1013" alt="image" src="https://github.com/user-attachments/assets/9a0019c2-91fc-42ec-a6a4-c948ec1fa686" />
 
 
 <img width="475" height="1004" alt="image" src="https://github.com/user-attachments/assets/e85dca36-526a-4855-a67a-35a86c8ace65" />
+
+
+<img width="479" height="1010" alt="image" src="https://github.com/user-attachments/assets/937390ea-7412-4bd6-8f7c-a5631bd8ee2d" />
+
