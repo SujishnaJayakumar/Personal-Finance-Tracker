@@ -2,13 +2,7 @@
 
 Personal Finance Tracker is a self-hosted mobile app designed to help users gain a deeper understanding of their personal finances. Built with Flutter and powered by Firebase, it offers intuitive budgeting tools, real-time insights, and AI-driven analytics — all while keeping your data private and under your control.
 
-https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/LoginPage.png
 
-https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/Dashboard.png
-
-https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/SetBudget.png
-
-https://github.com/SujishnaJayakumar/Personal-Finance-Tracker/blob/main/MonthlySummary.png
 
  Features
 -  Budget Management
